@@ -1,0 +1,4 @@
+Дата/время: 2021-05-10 16:44:30.863540
+Имя функции: get_hash
+Аргументы: (('wiki_links.txt',), {})
+Результат: <generator object get_hash at 0x7fc428f74c80>
